@@ -1,0 +1,25 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.pdb
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.exe.config
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.exe
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.pdb
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.exe
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.pdb
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.Form1.resources
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.Properties.Resources.resources
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.csproj.GenerateResource.Cache
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.exe.config
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.exe
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\bin\Debug\Lab8_Queestion5.pdb
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.csprojAssemblyReference.cache
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.Form1.resources
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.Properties.Resources.resources
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.csproj.GenerateResource.cache
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.exe
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 8\Lab8_Queestion5\Lab8_Queestion5\obj\Debug\Lab8_Queestion5.pdb
